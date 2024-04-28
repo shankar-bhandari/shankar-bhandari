@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shankar Bhandari</h1>
 <h3 align="center">A passionate full stack developer.</h3>
-<img align=""center" width="400" src="https://fbi.cults3d.com/uploaders/23041092/illustration-file/ceeaecf7-7908-472b-aa72-60240f5a3b49/ezgif.com-gif-maker-7.gif">
+<div>
+  <img align="right" src="https://i.pinimg.com/originals/fe/8b/0b/fe8b0bdd63a3f18afef5b0570a2a5c4c.gif" alt="Working" width="200" height="200">
+</div>
 
 - 🔭 I’m currently working on **Bill on Hand**
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://shankar-bhandari.netlify.app](https://shankar-bhandari.netlify.app)
+- 🤵My Portfolio : [https://shankar-bhandari.netlify.app](https://shankar-bhandari.netlify.app)
 
 - 💬 Ask me about **React, NodeJs, JavaScript**
 
