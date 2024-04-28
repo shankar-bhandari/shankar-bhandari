@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shankar Bhandari</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <div>
-  <img align="right" src="https://media1.giphy.com/media/uGLavs6GBM0y3HPjZo/giphy.gif?cid=6c09b952w0mci1v65ihy27wpr8th0hu1fjimnp7gql1tsr0b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Working" width="200" height="200">
+  <img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7580afe4-8ee4-4214-bada-9c78af8f9404/dewgycu-9aade3bd-b1c8-44ff-8852-1c46cf76f3f4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ODBhZmU0LThlZTQtNDIxNC1iYWRhLTljNzhhZjhmOTQwNFwvZGV3Z3ljdS05YWFkZTNiZC1iMWM4LTQ0ZmYtODg1Mi0xYzQ2Y2Y3NmYzZjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bSMSX6t2KCDVEp5bT6VtzKejcNSq1mnKa8FeUza3izE" alt="Working" width="400" height="400" ;">
 </div>
 
 - 🔭 I’m currently working on **Bill on Hand**
