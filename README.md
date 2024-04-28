@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shankar Bhandari</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <div>
-  <img align="right" src="https://cdn.dribbble.com/userupload/10951018/file/original-d53f68cdc20daa2a2f31037fed7375e2.gif" alt="Working" width="200" height="200">
+  <img align="right" src="https://media1.giphy.com/media/uGLavs6GBM0y3HPjZo/giphy.gif?cid=6c09b952w0mci1v65ihy27wpr8th0hu1fjimnp7gql1tsr0b&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Working" width="200" height="200">
 </div>
 
 - 🔭 I’m currently working on **Bill on Hand**
